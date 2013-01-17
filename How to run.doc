@@ -1,0 +1,27 @@
+How to Run MenuOptions.sh sample code:
+
+
+Document Type: Menuscript.doc
+Associated Product: Unix Ubuntu/CentOs/Fedora.
+
+Summary: This documents illustrates the steps involved in setting-up and running the MenuOptions.sh sample code with Unix system 
+Solution:
+Use the below guidelines for running MenuOptions.sh sample code.
+
+There are 3 different ways to run this sample code:
+
+1. bash MenuOptions.sh 
+2. sh MenuOptions.sh 
+3. ./ MenuOptions.sh
+Here, we are demonstrating about how to run MenuOptions.sh sample code in Unix based systems (CentOS/Fedora/Ubuntu)
+Step 1: Login to the system with super user called root.
+Step 2: Copy the file in any UNIX based system at an appropriate path.
+Step 3: Give the executable permissions to the sample code.
+Step 4: Run the sample code using ./MenuOptions.sh or bash MenuOptions.sh or sh MenuOptions.sh
+Step 5: After running the script it will prompt with the options and select the suitable option according to the user requirements.
+Step 6: After completing the task, press 8 to exit from the sample code.
+
+
+
+
+
